@@ -1,0 +1,15 @@
+---
+title: "🔗 Just Calm Down About GPT-4 Already"
+date: "5/18/2023"
+author:
+  - name: IEEE
+    url: https://spectrum.ieee.org/gpt-4-calm-down
+draft: true
+categories:
+  - news
+  - gpt
+  - ai
+---
+
+> "What the large language models are good at is saying what an answer should *sound like*, which is different from what an answer should *be*."\
+> ---Rodney Brooks, Robust.AI

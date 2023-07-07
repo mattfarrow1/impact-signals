@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+![](images/headshot.JPG){fig-align="center"}
+
+```{r}
+1 + 1
+```

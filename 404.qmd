@@ -1,0 +1,5 @@
+---
+title: "Page Not Found"
+---
+
+[![](images/404.png){fig-align="center"}](index.qmd)

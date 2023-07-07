@@ -1,0 +1,65 @@
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+/*-- scss:defaults --*/
+
+// Colors
+$white: #f9f7f3;
+$delft-blue: #273777;
+$blue-gray: #5a9fdf;
+$uranian-blue: #b4d2ef;
+$platinum: #CDD7D6;
+$mint: #03CEA4;
+$tomato: #FB4D3D;
+$khaki: #B3A394;
+$honeydew: #F1FAEE;
+
+// Fonts
+$my-font-size: 25px;
+
+// Base document colors
+$navbar-bg: $delft-blue; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$navbar-hl: $mint; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $delft-blue; // page text 
+$footer-bg: $uranian-blue; // footer 
+$link-color: $mint; // hyperlinks 
+
+// Inline code
+$code-bg: $platinum; // inline code background color
+$code-color: $mint; // inline code text color
+
+// Code blocks
+$code-block-bg: $platinum; // code block background color
+
+$font-family-base: 'Montserrat', sans-serif;
+
+// Custom Variables
+// $retro: 'Monoton', cursive;
+
+/*-- scss:rules --*/
+/*#title-block-header.quarto-title-block.default .quarto-title .title {
+  font-family: $retro;
+  font-size: $font-size-base * 3;
+  text-shadow: 2px 2px 0 rgba(31, 81, 255, .3);
+}*/
+
+/*p.subtitle.lead {
+  font-family: $retro;
+  font-size: $font-size-base * 1.75;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px !important;
+  text-shadow: 2px 2px 0 rgba(176, 38, 255, .3);
+}*/
+
+/*.about-image {
+  margin-top: 1.5em;
+}*/
+
+// Set the size of the logo in the navbar
+.navbar-logo {
+  max-height: 75px;
+}
